@@ -1,4 +1,4 @@
-Feature: Login feature
+Feature: Login feature test
 
 Scenario : Successful login into Facebook
 Given user is in Facebook page
